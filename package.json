@@ -1,14 +1,24 @@
 {
-  "name": "static-site",
+  "name": "Professional-README-Generator",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "inquirer": "8.2.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeinabhared/README-Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zeinabhared/README-Generator/issues"
+  },
+  "homepage": "https://github.com/zeinabhared/README-Generator#readme",
+  "description": ""
 }
