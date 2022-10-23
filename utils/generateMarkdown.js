@@ -42,7 +42,7 @@ return `
 # ${data.title}
 
 ${renderLicenseBadge(data.license)}
-## Table-of-Contents
+## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
@@ -68,9 +68,9 @@ ${data.test}
 ## [Questions](#table-of-contents)
 Please contact me using the following links:
 
-[GitHub: https://github.com/${data.githubUsername}
+GitHub: https://github.com/${data.githubUsername}
 
-[Email: ${data.email}](mailto:${data.email})
+Email: [${data.email}](mailto:${data.email})
 `
 };
 
