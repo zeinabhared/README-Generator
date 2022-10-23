@@ -6,7 +6,7 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Zeinab Hared",
   "license": "ISC",
   "dependencies": {
     "inquirer": "8.2.4"
@@ -20,5 +20,5 @@
     "url": "https://github.com/zeinabhared/README-Generator/issues"
   },
   "homepage": "https://github.com/zeinabhared/README-Generator#readme",
-  "description": ""
+  "description": "README file generator using inquirer."
 }
